@@ -1,0 +1,3 @@
+*.pbix
+powerbi/datos/
+python/datos/
